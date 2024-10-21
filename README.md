@@ -1,1 +1,2 @@
 # homeTutor
+initial setup done
